@@ -6,6 +6,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="k-groshev" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="ahamemnon" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
@@ -22,9 +26,6 @@
         </UrlAndUserName>
       </list>
     </option>
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads" />
