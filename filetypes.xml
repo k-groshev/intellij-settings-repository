@@ -19,8 +19,8 @@
       <mapping pattern=".empty" type="PLAIN_TEXT" />
       <mapping pattern="default_h2" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="base64" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
