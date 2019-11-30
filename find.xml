@@ -4,25 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.css</mask>
-      <mask>*Dao*.java</mask>
-      <mask>*.java, *.xml</mask>
-      <mask>*.jsp</mask>
-      <mask>*.gradle</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>**.java</mask>
-      <mask>*TE*.java</mask>
-      <mask>*T*.java</mask>
-      <mask>*Te*.java</mask>
-      <mask>*Tes*.java</mask>
-      <mask>*Test*.java</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.java" />
   </component>
 </application>
